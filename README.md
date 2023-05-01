@@ -5,4 +5,4 @@ This solution is a bare-bones procedural script to acheive the specs of the tech
 **To run**
 - Ensure you are in root folder `/thrive-technical`
 - Run IRB in console `irb`
-- Load script `load 'script.rb`
+- Load script `load 'script.rb'`
